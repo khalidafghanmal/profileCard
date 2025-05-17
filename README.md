@@ -2,7 +2,7 @@
 
 A modern, responsive profile card built with HTML and CSS — perfect for personal websites, portfolios, or digital resumes.
 
-https://github.com/yourusername/profieCard/assets/yourvideo.mp4
+https://github.com/khalidafghanmal/profileCard/video.mp4
 
 ## 🎥 Preview
 
