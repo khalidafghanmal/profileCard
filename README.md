@@ -1,30 +1,47 @@
-# 💼 Profile Card
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--  Profile Card – README                                      -->
+<!-- ──────────────────────────────────────────────────────────── -->
 
-A modern, responsive profile card built with HTML and CSS — perfect for personal websites, portfolios, or digital resumes.
+<h1 align="center">
+  💼 <strong>Profile&nbsp;Card</strong>
+</h1>
 
-https://github.com/khalidafghanmal/profileCard/video.mp4
+<p align="center">
+  A sleek, responsive personal‑profile card<br>
+  built with <strong>HTML</strong> &amp; <strong>CSS</strong>.
+</p>
 
-## 🎥 Preview
+<p align="center">
+  <!-- GIF preview -->
+  <img src="video.gif" alt="Animated preview of the profile card" width="600">
+</p>
 
-> Here's a quick look at the profile card in action:
-
-<video src="video.mp4" controls loop width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin-top: 1rem;"></video>
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+---
 
 ## ✨ Features
 
-- Fully responsive layout
-- Modern glassmorphism design
-- Easy to customize
-- Lightweight and fast
+- **Glassmorphism** & subtle hover effects  
+- **100 % responsive**—looks sharp on phones, tablets & desktops  
+- Pure **HTML / CSS** (no frameworks)  
+- Easy to **customize** colors, fonts, social links & photo  
 
-## 🚀 Getting Started
+---
 
-```bash
-git clone https://github.com/yourusername/profieCard.git
-cd profieCard
-open index.html
+## 🛠️ Tech Stack
+
+| Tech | Why |
+|------|-----|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 badge"> | Semantic markup |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3 badge"> | Layout & visual magic |
+
+---
+
+## 📂 Project Structure
+
+```text
+profieCard/
+├── index.html         # Main demo page
+├── style.css          # All styling
+├── assets/
+│   └── profile-card-preview.gif  # Preview GIF
+└── README.md
