@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- GIF preview -->
-  <img src="video.gif" alt="Animated preview of the profile card" width="600">
+  <img src="video.gif" alt="Animated preview of the profile card" width="400">
 </p>
 
 ---
