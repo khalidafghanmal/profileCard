@@ -18,10 +18,7 @@
 
 ---
 
-<p align="center">
-  <!-- GIF preview -->
-  <img src="3.jpg" alt="Animated preview of the profile card" width="400">
-</p>
+
 
 ## ✨ Features
 
